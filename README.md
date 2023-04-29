@@ -11,6 +11,10 @@ przeliczanie funtów na gramy kilogramy i uncje - możesz użyć innych jednoste
 
 ![Podzial na komponenty](./design_how_it_works.png)
 
+### colors
+
+![Podzial na komponenty](./colors.png)
+
 W zadaniu nie ma narzuconego sposobu wykonania zadania jedynym wymogiem jest uzycie reacta
 możesz zrobić to w jednym komponencie możesz to rozbić na kilka komponentów tak żeby zachować dobre praktyki pisania aplikacji w react czyli - modularność.
 
