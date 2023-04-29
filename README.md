@@ -1,9 +1,17 @@
-## Zadanie Konwerter jednostek ciężkości
+# Zadanie Konwerter jednostek ciężkości
 
 Twoim zadaniem jest stworzenie mini aplikacji która będzie przeliczac jednostkę ciężaru - design przedstawia
 przeliczanie funtów na gramy kilogramy i uncje - możesz użyć innych jednostek - do przeliczenia jednostek będzieszi musiał/musiała zrobić resaerch jak te jednostki przeliczyć ;)
 
-w zadaniu nie ma narzuconego sposobu wykonania zadania jedynym wymogiem jest uzycie reacta
+### Empty state
+
+![Podzial na komponenty](./design_empty_state.png)
+
+### How it works
+
+![Podzial na komponenty](./design_how_it_works.png)
+
+W zadaniu nie ma narzuconego sposobu wykonania zadania jedynym wymogiem jest uzycie reacta
 możesz zrobić to w jednym komponencie możesz to rozbić na kilka komponentów tak żeby zachować dobre praktyki pisania aplikacji w react czyli - modularność.
 
 Jeżeli jednak potrzebujesz pomysłu jak podzielić sobie aplikacje na foldery i komponenty to zostawiam moją sugestie poniżej + plik design_podzial_na_komponenty:
@@ -17,3 +25,5 @@ Sugerowany podzial na komponenty:
   każdy z tych propów będzie odpowiednio label - nazwa jednostki (np. "Kilograms") value - wartość przeliczanej jednostki
   (czyli computed value) oraz backgroundColor czyli może to być string odpowiadający za kolor zgodny z designem
   na designie są 3 komponenty output więc będzie 3 użycia tego komponentu jedno użycie na jedną wyliczaną jednostkę.
+
+![Podzial na komponenty](./design_podzial_na_komponenty.png)
