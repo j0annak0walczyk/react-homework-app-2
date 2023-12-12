@@ -1,0 +1,51 @@
+.weight-output-1 {
+  color: white;
+  font-weight: 500;
+  font-size: x-large;
+  text-align: start;
+  width: 500px;
+  height: 80px;
+  background-color: #f94444;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.weight-output-2 {
+  color: white;
+  font-weight: 500;
+  font-size: x-large;
+  text-align: start;
+  width: 500px;
+  height: 80px;
+  background-color: #11b003;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.weight-output-3 {
+  color: white;
+  font-weight: 500;
+  font-size: x-large;
+  text-align: start;
+  width: 500px;
+  height: 80px;
+  background-color: #4c49d4;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.result {
+  color: white;
+  font-weight: 300;
+  font-size: large;
+  margin-top: 5px;
+}

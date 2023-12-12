@@ -1,0 +1,15 @@
+.weight-form {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 500;
+  height: 60px;
+  width: 500px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
